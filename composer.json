@@ -1,5 +1,10 @@
 {
   "name": "wuli08/number-format",
+  "type": "library",
+  "keywords": [
+    "number",
+    "format"
+  ],
   "authors": [
     {
       "name": "wuli08",
